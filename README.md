@@ -1,4 +1,4 @@
-🤖 Multi-Source RAG System (PDF + URL AI Assistant)
+🤖 RAG System (PDF + URL + AI Assistant)
 
 📘 Project Overview
 
